@@ -3,6 +3,8 @@ Image Encryption web  tool
 
 
 ===========================================================
+
+
 Create Server-side Code (app.js):
 In the server folder, create an app.js file to set up the Node.js server.
 Set up an Express server to handle HTTP requests.
